@@ -1,0 +1,11 @@
+{
+    "pikachu": {
+        "characteristic": "its electric attacks"
+    },
+    "charizard": {
+        "characteristic": "its powerful fire breath"
+    },
+    "blastoise": {
+        "characteristic": "its water cannons"
+    }
+}
